@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Ranked Choice Voting Application Production Details
 
-You can use the [editor on GitHub](https://github.com/asmarsden/RCAdetails/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A lot went into this project! From learning how to use a wide range of tools and technologies we weren't familiar with, to learning how to work on a team after spending years coding small projects alone for school, the learning experience here was incredible. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<a href="https://asmarsden.github.io/TeamMeetingNotes/">If you want to see our scrum notes as the project was completed, click here!</a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<a href="https://github.com/asmarsden/RankedChoiceVoting">To see the source code for the project, click here!</a>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Presentations
 
-1. Numbered
-2. List
+We did a number of presentations on our progress as we completed this project, all of which are available below!
 
-**Bold** and _Italic_ and `Code` text
+<a href="https://drive.google.com/file/d/1Fhpp6ESock2WjYxZdLMctZkKTH4_u768/view?usp=sharing">Project Pitch Presentation</a>
 
-[Link](url) and ![Image](src)
-```
+<a href="https://drive.google.com/file/d/1dIMEZmiIGgAhv3Aqq28aEkx6L7XIVFd1/view?usp=sharing">Sprint 1 Presentation</a>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<a href="https://drive.google.com/file/d/1QBEyZ_v_J48Yc7SN9mxfc2EbKmaGj_99/view?usp=sharing">Sprint 2 Presentation</a>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/asmarsden/RCAdetails/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<a href="https://docs.google.com/presentation/d/1utlSkm8p-4e0I2yA1ysQSmlWRJGPxAnn/edit?usp=sharing&ouid=108192269795817801838&rtpof=true&sd=true">Sprint 3 Presentation</a>
