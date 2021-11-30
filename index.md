@@ -19,4 +19,4 @@ We did a number of presentations on our progress as we completed this project, a
 
 <a href="https://drive.google.com/file/d/1QBEyZ_v_J48Yc7SN9mxfc2EbKmaGj_99/view?usp=sharing">Sprint 2 Presentation</a>
 
-<a href="https://docs.google.com/presentation/d/1utlSkm8p-4e0I2yA1ysQSmlWRJGPxAnn/edit?usp=sharing&ouid=108192269795817801838&rtpof=true&sd=true">Sprint 3 Presentation</a>
+<a href="https://docs.google.com/presentation/d/1jL0JvHHHhSv5Q8QaSVM9Ner_MBsNZZ-z/edit?usp=sharing&ouid=108192269795817801838&rtpof=true&sd=true">Sprint 3 Presentation</a>
